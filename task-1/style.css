@@ -1,0 +1,136 @@
+body {
+    text-align: center;
+}
+
+
+/* button1 */
+
+button:nth-child(1) {
+    background-color: #c63928;
+    border: transparent;
+    color: white;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    margin: 25px;
+    padding: 15px 50px;
+}
+
+button:nth-child(1):hover {
+    background-color: #ed4d4f;
+    cursor: pointer;
+}
+
+
+/* button1 */
+
+
+/* button2 */
+
+button:nth-child(2) {
+    background-color: #fcd835;
+    border: 3px solid #2a61fb;
+    color: #2a61fb;
+    font-size: 20px;
+    font-family: 'Gugi', cursive;
+    padding: 10px 20px;
+    margin: 25px;
+}
+
+button:nth-child(2):hover {
+    background-color: #2a61fb;
+    color: #fcd835;
+    cursor: pointer;
+}
+
+
+/* button2 */
+
+
+/* button3 */
+
+button:nth-child(3) {
+    background-image: linear-gradient(90deg, #5cd1d6, #a4d388);
+    border: transparent;
+    border-radius: 50px;
+    color: white;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    margin: 25px;
+    padding: 10px 40px;
+    cursor: pointer;
+}
+
+
+/* button3 */
+
+
+/* button4 */
+
+button:nth-child(4) {
+    background-color: white;
+    border: 3px solid #6749ea;
+    color: #6749ea;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    margin: 25px;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+button:nth-child(4):hover {
+    background-color: #6749ea;
+    color: white;
+    cursor: pointer;
+}
+
+
+/* button4 */
+
+
+/* button5 */
+
+button:nth-child(5) {
+    background-image: linear-gradient(#fac833, #f5a232);
+    border: 2px solid #f5a232;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    margin: 25px;
+    padding: 10px 35px;
+    cursor: pointer;
+    text-shadow: 1px 1px 2px #2e2d2a;
+}
+
+button:nth-child(5):hover {
+    background-color: #f5a232;
+    cursor: pointer;
+    background-image: none;
+}
+
+
+/* button5 */
+
+
+/* button6 */
+
+button:nth-child(6) {
+    background-color: white;
+    border: 2px solid #37a1f3;
+    color: #37a1f3;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    margin: 25px;
+    border-radius: 50px;
+    padding: 12px 14px;
+    ;
+}
+
+button:nth-child(6):hover {
+    background-color: #37a1f3;
+    color: white;
+    cursor: pointer;
+}
+
+
+/* button6 */
